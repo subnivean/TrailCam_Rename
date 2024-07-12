@@ -8,7 +8,7 @@ pyqt5
 pickleshare
 
 # If installing Mayavi:
-numpy
+# numpy
 # Mayavi can be fussy about the VTK version
 #vtk
 #vtk==9.2.6

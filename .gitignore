@@ -1,6 +1,6 @@
 __pycache__
 *.swp
-venv
+venv*
 config/env_local.sh
 ipython/profile_default/db/dhist
 ipython/profile_default/history.sqlite
